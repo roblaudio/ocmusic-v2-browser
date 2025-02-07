@@ -20,13 +20,19 @@
             }
         },
         "Workspace": {
-            "$path": "src/Workspace"
+            "$path": "src/Workspace",
+            "Terrain": {
+                "$path": "src/Terrain"
+            }
         },
         "Players": {
             "$className": "Players",
             "$properties": {
                 "CharacterAutoLoads": false
             }
+        },
+        "SoundService": {
+            "$path": "src/SoundService"
         }
     }
 }

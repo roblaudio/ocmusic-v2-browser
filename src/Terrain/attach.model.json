@@ -1,0 +1,79 @@
+{
+    "ClassName": "Part",
+    "Properties": {
+        "Anchored": true,
+        "BottomSurface": "Smooth",
+        "CanCollide": false,
+        "CanQuery": false,
+        "CanTouch": false,
+        "EnableFluidForces": false,
+        "Locked": true,
+        "Size": [
+            0.001,
+            0.001,
+            0.001
+        ],
+        "TopSurface": "Smooth",
+        "Transparency": 1
+    },
+    "Children": [
+        {
+            "ClassName": "Attachment",
+            "Name": "attach",
+            "Properties": {
+                "CFrame": {
+                    "CFrame": {
+                        "position": [
+                            -0.558,
+                            0,
+                            -0.83
+                        ],
+                        "orientation": [
+                            [
+                                1,
+                                0,
+                                0
+                            ],
+                            [
+                                0,
+                                1,
+                                0
+                            ],
+                            [
+                                0,
+                                0,
+                                1
+                            ]
+                        ]
+                    }
+                },
+                "WorldCFrame": {
+                    "CFrame": {
+                        "position": [
+                            -0.558,
+                            0,
+                            -0.83
+                        ],
+                        "orientation": [
+                            [
+                                1,
+                                0,
+                                0
+                            ],
+                            [
+                                0,
+                                1,
+                                0
+                            ],
+                            [
+                                0,
+                                0,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "ClassName": "SoundGroup",
+    "Properties": {
+        "Volume": 1
+    },
+    "Children": [
+        {
+            "ClassName": "SoundGroup",
+            "Name": "speedPitch",
+            "Properties": {
+                "Volume": 1
+            }
+        },
+        {
+            "ClassName": "ReverbSoundEffect",
+            "Name": "reverb",
+            "Properties": {
+                "DecayTime": 5,
+                "DryLevel": 0,
+                "WetLevel": -80
+            }
+        },
+        {
+            "ClassName": "EqualizerSoundEffect",
+            "Name": "equalizer",
+            "Properties": {
+                "HighGain": -80,
+                "LowGain": 10,
+                "MidGain": 0
+            }
+        }
+    ]
+}
