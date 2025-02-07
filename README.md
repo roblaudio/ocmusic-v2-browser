@@ -3,7 +3,7 @@
 The Obby Creator Music Song Browser just before it's end of life. Manually
 ported over from Roblox Studio.
 
-> [!warn]
+> [!WARNING]
 > The code sucks. It was written two years ago mostly by
 > [nexpid](https://github.com/nexpid).
 
