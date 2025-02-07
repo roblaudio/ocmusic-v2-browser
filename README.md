@@ -39,8 +39,8 @@ us at znotfireman+ocmusiccopyright@gmail.com with specific details. We will
 promptly remove any infringing audio assets and archive them on Roblox,
 rendering it unusable.
 
-All other content in the processed dump files are licensed under the [Do What
-The Fuck You Want To Public License](./LICENSE-WTFPL.md).
+All other content in the source files are licensed under the [BSD 3-Clause
+License](./LICENSE-BSD-3-Clause.md).
 
 <br/>
 
