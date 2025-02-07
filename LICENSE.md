@@ -1,13 +1,45 @@
-Obby Creator Music was maintained by Roblox users "ImNotFireMan123" and "GABA8."
-All audio files were uploaded by Roblox users prior to the termination of the
-Obby Creator Music group.  We do not make any representations regarding the
-copyright compliance of these user-uploaded audio files. Users are solely
-responsible for ensuring their uploads do not infringe on any copyrights.
+BSD 3-Clause License + Old Obby Creator Music Content Disclaimer
 
-We are committed to respecting copyright laws. If you believe that any content
-in the Obby Creator Music Song Browser infringes your copyright, please contact
-us at znotfireman+ocmusiccopyright@gmail.com with specific details. We will
-promptly remove any infringing audio assets and archive them on Roblox,
-rendering it unusable.
+Copyright 2025 Roblaudio Contributors
 
-Code is licensed under the Do What The Fuck You Want To Public License.
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list
+of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this
+list of conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+Neither the name of the copyright holder nor the names of its contributors may
+be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The audio files included in this software are user-uploaded content obtained
+from Roblox and were subject to Roblox's moderation process. While Roblox
+moderated this content, we make no representations or warranties regarding the
+copyright compliance of these files. The responsibility for ensuring compliance
+with all applicable copyright laws rests solely with the end-user.
+
+You agree to indemnify and hold harmless the Roblaudio Contributors from any and
+all claims, damages, liabilities, costs, and expenses (including reasonable
+attorneys' fees) arising from your use of the Obby Creator Music and Roblaudio
+audio files, including but not limited to claims of copyright infringement.
+
+If you believe that any content in "Obby Creator Music" and/or "Roblaudio"
+infringes your copyright, please contact us at
+znotfireman+ocmusiccopyright@gmail.com with specific details. We will promptly
+exclude your content and the infringing audio files forever, and archive it on
+Roblox, rendering it unusable.

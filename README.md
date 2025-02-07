@@ -31,23 +31,6 @@ rojo serve
 
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
 
-## License
-
-Obby Creator Music was maintained by Roblox users "ImNotFireMan123" and "GABA8."
-All audio files were uploaded by Roblox users prior to the termination of the
-Obby Creator Music group.  We do not make any representations regarding the
-copyright compliance of these user-uploaded audio files. Users are solely
-responsible for ensuring their uploads do not infringe on any copyrights.
-
-We are committed to respecting copyright laws. If you believe that any content
-in the Obby Creator Music Song Browser infringes your copyright, please contact
-us at znotfireman+ocmusiccopyright@gmail.com with specific details. We will
-promptly remove any infringing audio assets and archive them on Roblox,
-rendering it unusable.
-
-All other content in the source files are licensed under the [BSD 3-Clause
-License](./LICENSE-BSD-3-Clause.md).
-
 <br/>
 
 <div align="center">
@@ -58,3 +41,17 @@ License](./LICENSE-BSD-3-Clause.md).
     />
     <h2>Il mio eroe 💗</h2>
 </div>
+
+## License
+
+Licensed under BSD 3-Clause License + Old Obby Creator Music Content Disclaimer.
+
+See [LICENSE.md](./LICENSE.md) to review the legal text.
+
+Summary, but not a replacement for the legal text:
+
+* You can use, modify, and share this software, but keep all copyright notices and disclaimer.
+* Don’t use my name or contributors' names to promote your version without permission.
+* This software is provided "as is" with no guarantees, Roblaudio is not liable for any issues or damages.
+* Audio assets from Obby Creator Music is user uploaded and e make no representations or warranties regarding the copyright compliance of these files, but Roblaudio is willing to comply with copyright regulations.
+BSD 3-Clause License + Old Obby Creator Music Content Disclaimer
