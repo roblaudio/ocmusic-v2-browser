@@ -1,0 +1,20 @@
+return {
+	"join",
+	"for music",
+	"for audio",
+	"for song",
+	"hear music",
+	"hear audio",
+	"hear song",
+	"hear obby",
+	"hear game",
+	"good_music",
+	"good_audio",
+	"good_song",
+	"plsmusic",
+	"plsaudio",
+	"plssong",
+	"tutorial",
+	"in obby",
+	"in game"
+}

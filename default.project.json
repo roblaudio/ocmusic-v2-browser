@@ -1,0 +1,32 @@
+{
+    "name": "ocmusic-v2-browser",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$path": "src/ReplicatedStorage"
+        },
+        "ServerScriptService": {
+            "$path": "src/ServerScriptService"
+        },
+        "ServerStorage": {
+            "$path": "src/ServerStorage"
+        },
+        "StarterGui": {
+            "$path": "src/StarterGui"
+        },
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "$path": "src/StarterPlayerScripts"
+            }
+        },
+        "Workspace": {
+            "$path": "src/Workspace"
+        },
+        "Players": {
+            "$className": "Players",
+            "$properties": {
+                "CharacterAutoLoads": false
+            }
+        }
+    }
+}

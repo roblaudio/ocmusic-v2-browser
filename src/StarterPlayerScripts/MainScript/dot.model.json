@@ -1,0 +1,45 @@
+{
+    "ClassName": "Part",
+    "Properties": {
+        "BottomSurface": "Smooth",
+        "CFrame": {
+            "CFrame": {
+                "position": [
+                    0,
+                    0,
+                    5
+                ],
+                "orientation": [
+                    [
+                        1,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        1,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            }
+        },
+        "Color": [
+            1,
+            1,
+            1
+        ],
+        "EnableFluidForces": false,
+        "Size": [
+            0.2,
+            0.001,
+            1
+        ],
+        "TopSurface": "Smooth",
+        "Transparency": 0.5
+    }
+}

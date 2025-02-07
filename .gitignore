@@ -1,0 +1,11 @@
+# Project place file
+/ocmusic-v2-browser.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+.DS_Store
+**/.DS_Store

@@ -1,0 +1,89 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "ClassName": "Folder",
+            "Name": "badge",
+            "Children": [
+                {
+                    "ClassName": "Sound",
+                    "Name": "yippee",
+                    "Properties": {
+                        "SoundId": "rbxassetid://7361279428"
+                    }
+                },
+                {
+                    "ClassName": "Sound",
+                    "Name": "tada",
+                    "Properties": {
+                        "SoundId": "rbxassetid://6648577112"
+                    }
+                }
+            ]
+        },
+        {
+            "ClassName": "Sound",
+            "Name": "groove battle",
+            "Properties": {
+                "Looped": true,
+                "Playing": true,
+                "SoundId": "rbxassetid://10789587270",
+                "Volume": 0
+            }
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "osu",
+            "Children": [
+                {
+                    "ClassName": "Sound",
+                    "Name": "s1",
+                    "Properties": {
+                        "SoundId": "rbxassetid://10887309123",
+                        "Volume": 0.9
+                    }
+                },
+                {
+                    "ClassName": "Sound",
+                    "Name": "s2",
+                    "Properties": {
+                        "SoundId": "rbxassetid://10984949729",
+                        "Volume": 2
+                    }
+                }
+            ]
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "???",
+            "Children": [
+                {
+                    "ClassName": "Sound",
+                    "Name": "silly",
+                    "Properties": {
+                        "PlaybackSpeed": 0.9,
+                        "SoundId": "rbxassetid://313948389",
+                        "Volume": 0.6
+                    }
+                },
+                {
+                    "ClassName": "Sound",
+                    "Name": "sting",
+                    "Properties": {
+                        "SoundId": "rbxassetid://12826653060",
+                        "Volume": 2
+                    }
+                }
+            ]
+        },
+        {
+            "ClassName": "Sound",
+            "Name": "ping",
+            "Properties": {
+                "PlaybackSpeed": 1.3,
+                "SoundId": "rbxassetid://4897254670",
+                "Volume": 1
+            }
+        }
+    ]
+}

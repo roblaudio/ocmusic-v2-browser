@@ -1,0 +1,127 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "ClassName": "Folder",
+            "Name": "unfinished"
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "finished",
+            "Children": [
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Poll",
+                    "Properties": {
+                        "PrimaryAlias": "/poll"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "MuteChat",
+                    "Properties": {
+                        "PrimaryAlias": "/mutechat",
+                        "SecondaryAlias": "/mc"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "UnmuteChat",
+                    "Properties": {
+                        "PrimaryAlias": "/unmutechat",
+                        "SecondaryAlias": "/umc"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Resubscribe",
+                    "Properties": {
+                        "PrimaryAlias": "/resubscribe",
+                        "SecondaryAlias": "/resub"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Commands",
+                    "Properties": {
+                        "PrimaryAlias": "/commands",
+                        "SecondaryAlias": "/cmds"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Beta",
+                    "Properties": {
+                        "PrimaryAlias": "/beta"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Stable",
+                    "Properties": {
+                        "PrimaryAlias": "/stable",
+                        "SecondaryAlias": "/main"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Update",
+                    "Properties": {
+                        "PrimaryAlias": "/update",
+                        "SecondaryAlias": "/upd"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Rejoin",
+                    "Properties": {
+                        "PrimaryAlias": "/rejoin",
+                        "SecondaryAlias": "/rj"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Unban",
+                    "Properties": {
+                        "PrimaryAlias": "/unban"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Ban",
+                    "Properties": {
+                        "PrimaryAlias": "/ban"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Mute",
+                    "Properties": {
+                        "PrimaryAlias": "/mute"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Kick",
+                    "Properties": {
+                        "PrimaryAlias": "/kick"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "Unmute",
+                    "Properties": {
+                        "PrimaryAlias": "/unmute"
+                    }
+                },
+                {
+                    "ClassName": "TextChatCommand",
+                    "Name": "john pork",
+                    "Properties": {
+                        "PrimaryAlias": "john pork"
+                    }
+                }
+            ]
+        }
+    ]
+}

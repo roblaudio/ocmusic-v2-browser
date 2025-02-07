@@ -1,0 +1,14 @@
+game.StarterGui.main.jam.Visible = false
+game.StarterGui.main.tos.frame.Size = UDim2.new()
+game.StarterGui.main.tos.BackgroundTransparency = 1
+game.StarterGui.main.tos.Visible = false
+game.StarterGui.main.popup.Visible = false
+game.StarterGui.main.popup.BackgroundTransparency = 1
+game.StarterGui.main.popup.frame.Size = UDim2.new()
+game.StarterGui.main.loading.Visible = false
+game.StarterGui.main.bgplayer.Position = UDim2.new(0.1, 0, 1, 0)
+game.StarterGui.main.bgplayer.other.tempo.Visible = false
+game.StarterGui.main.loading.Visible = false
+game.StarterGui.main.teleporting.Visible = false
+game.StarterGui.main.container.audios.searching.left.filters.menu.Visible = false
+game.StarterGui.main.secretBadge.Visible = false

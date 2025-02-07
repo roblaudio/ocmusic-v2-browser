@@ -1,0 +1,65 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "ClassName": "Folder",
+            "Name": "server",
+            "Children": [
+                {
+                    "ClassName": "BoolValue",
+                    "Name": "beta"
+                },
+                {
+                    "ClassName": "BoolValue",
+                    "Name": "vip"
+                },
+                {
+                    "ClassName": "StringValue",
+                    "Name": "rstatus",
+                    "Properties": {
+                        "Value": "..."
+                    }
+                },
+                {
+                    "ClassName": "BoolValue",
+                    "Name": "ready"
+                },
+                {
+                    "ClassName": "BoolValue",
+                    "Name": "cbrackets",
+                    "Properties": {
+                        "Value": true
+                    }
+                }
+            ]
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "game",
+            "Children": [
+                {
+                    "ClassName": "StringValue",
+                    "Name": "cindicators"
+                },
+                {
+                    "ClassName": "StringValue",
+                    "Name": "countdown",
+                    "Properties": {
+                        "Value": "cool countdown: ..."
+                    }
+                },
+                {
+                    "ClassName": "BoolValue",
+                    "Name": "broken"
+                },
+                {
+                    "ClassName": "StringValue",
+                    "Name": "lastTos",
+                    "Properties": {
+                        "Value": "TosAgree_005"
+                    }
+                }
+            ]
+        }
+    ]
+}

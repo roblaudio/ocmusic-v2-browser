@@ -1,0 +1,187 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "ClassName": "Folder",
+            "Name": "tracking",
+            "Children": [
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "GotBadge"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "LogError"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "RunQBadge"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "UpdateSettings"
+                },
+                {
+                    "ClassName": "RemoteFunction",
+                    "Name": "RequestData"
+                }
+            ]
+        },
+        {
+            "ClassName": "RemoteEvent",
+            "Name": "Message"
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "tabs",
+            "Children": [
+                {
+                    "ClassName": "Folder",
+                    "Name": "audio",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "Pagination"
+                        },
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "GetInfo"
+                        },
+                        {
+                            "ClassName": "RemoteEvent",
+                            "Name": "PlayedAt"
+                        }
+                    ]
+                },
+                {
+                    "ClassName": "Folder",
+                    "Name": "badges",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "GetInfo"
+                        }
+                    ]
+                },
+                {
+                    "ClassName": "Folder",
+                    "Name": "donate",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "GetClothing"
+                        },
+                        {
+                            "ClassName": "RemoteEvent",
+                            "Name": "Receipt"
+                        }
+                    ]
+                },
+                {
+                    "ClassName": "Folder",
+                    "Name": "settings",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "SyncRank"
+                        }
+                    ]
+                },
+                {
+                    "ClassName": "Folder",
+                    "Name": "about",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteEvent",
+                            "Name": "GBattle"
+                        }
+                    ]
+                },
+                {
+                    "ClassName": "Folder",
+                    "Name": "leaderboard",
+                    "Children": [
+                        {
+                            "ClassName": "RemoteFunction",
+                            "Name": "Pagination"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ClassName": "RemoteEvent",
+            "Name": "Teleporting"
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "settings",
+            "Children": [
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "Rejoin"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "Update"
+                },
+                {
+                    "ClassName": "RemoteFunction",
+                    "Name": "Reset"
+                }
+            ]
+        },
+        {
+            "ClassName": "RemoteEvent",
+            "Name": "Get Exploiter Badge"
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "chat",
+            "Children": [
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "GotBadge"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "SMessage"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "Tip"
+                }
+            ]
+        },
+        {
+            "ClassName": "RemoteFunction",
+            "Name": "GetPlayer"
+        },
+        {
+            "ClassName": "Folder",
+            "Name": "social",
+            "Children": [
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "SongUpdate"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "TabUpdate"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "PlaybUpdate"
+                },
+                {
+                    "ClassName": "RemoteEvent",
+                    "Name": "Updated"
+                },
+                {
+                    "ClassName": "RemoteFunction",
+                    "Name": "RequestList"
+                }
+            ]
+        }
+    ]
+}

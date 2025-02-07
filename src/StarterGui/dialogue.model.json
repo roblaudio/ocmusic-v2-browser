@@ -1,0 +1,9 @@
+{
+    "ClassName": "ScreenGui",
+    "Properties": {
+        "IgnoreGuiInset": true,
+        "ScreenInsets": "DeviceSafeInsets",
+        "ResetOnSpawn": false,
+        "ZIndexBehavior": "Sibling"
+    }
+}

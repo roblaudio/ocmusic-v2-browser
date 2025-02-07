@@ -1,0 +1,38 @@
+// Folder-specific settings
+//
+// For a full list of overridable settings, and general information on folder-specific settings,
+// see the documentation: https://zed.dev/docs/configuring-zed#settings-files
+{
+    "languages": {
+        "Luau": {
+            // preserve the game's codebase styling no matter how bad :)
+            "format_on_save": "off"
+        }
+    },
+    "lsp": {
+        "luau-lsp": {
+            "settings": {
+                "luau-lsp": {},
+                "ext": {
+                    "roblox": {
+                        "enabled": false,
+                        "security_level": "plugin"
+                    },
+                    "fflags": {
+                        "enable_by_default": false,
+                        "enable_new_solver": false,
+                        "sync": true,
+                        "override": {}
+                    },
+                    "binary": {
+                        "ignore_system_version": false,
+                        "path": null,
+                        "args": []
+                    },
+                    "definitions": [],
+                    "documentation": []
+                }
+            }
+        }
+    }
+}
